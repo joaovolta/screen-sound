@@ -1,0 +1,14 @@
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\bin\Debug\net8.0\Screen_Sound.exe
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\bin\Debug\net8.0\Screen_Sound.deps.json
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\bin\Debug\net8.0\Screen_Sound.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\bin\Debug\net8.0\Screen_Sound.dll
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\bin\Debug\net8.0\Screen_Sound.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.dll
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\refint\Screen_Sound.dll
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\Screen_Sound.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Curso C# - Alura\01 - C# criando a sua primeira aplicacao\02-Tipos e Funcoes\Screen_Sound\Screen_Sound\obj\Debug\net8.0\ref\Screen_Sound.dll
